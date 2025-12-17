@@ -25,10 +25,7 @@ A powerful web application to find and extract contact emails from content creat
 ### Installation
 
 1. **Clone or navigate to the project directory**:
-   ```bash
-   cd C:\Users\rushd\.gemini\antigravity\scratch\creator-email-scraper
-   ```
-
+   
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
