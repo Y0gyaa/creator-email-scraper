@@ -24,7 +24,7 @@ A powerful web application to find and extract contact emails from content creat
 
 ### Installation
 
-1. **Clone or navigate to the project directory**:
+1. **Clone or navigate to the project directory.**
    
 2. **Install dependencies**:
    ```bash
